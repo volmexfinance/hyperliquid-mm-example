@@ -1,0 +1,2 @@
+hyperliquid-python-sdk==0.24.0
+python-dotenv==1.2.3

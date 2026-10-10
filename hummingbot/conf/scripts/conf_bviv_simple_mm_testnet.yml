@@ -1,0 +1,10 @@
+# Testnet: Kinetiq's testnet dex lists the BVIV feed as bart:AAPL.
+script_file_name: bviv_simple_mm.py
+controllers_config: []
+exchange: hyperliquid_perpetual_testnet
+trading_pair: BART:AAPL-USD
+order_amount: 1
+spread: 0.003
+order_refresh_time: 15
+leverage: 2
+max_position: 10

@@ -1,0 +1,9 @@
+script_file_name: bviv_simple_mm.py
+controllers_config: []
+exchange: hyperliquid_perpetual
+trading_pair: MKTS:BVIV-USD
+order_amount: 1
+spread: 0.003
+order_refresh_time: 15
+leverage: 2
+max_position: 10
