@@ -19,4 +19,4 @@ This repository is example code, provided for illustration only. It is not finan
 
 The software is provided "as is", without warranty of any kind. Trading perpetual futures is risky, and you can lose all the funds you deposit. Automated trading can lose money quickly through bugs, market moves, fees, funding payments, or exchange or oracle outages.
 
-You are responsible for reviewing and testing the code, keeping your keys safe, following the laws and exchange terms that apply to you, and every trade you make. Use it at your own risk. To the fullest extent the law allows, Volmex Labs and the contributors to this repository are not liable for any loss or damage that comes from using this example.
+You are responsible for reviewing and testing the code, keeping your keys safe, following the laws and exchange terms that apply to you, and every trade you make. Use it at your own risk. To the fullest extent the law allows, Volmex Labs, Volmex Global, any affiliates, and the contributors to this repository are not liable for any loss or damage that comes from using this example.
